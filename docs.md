@@ -23,7 +23,7 @@ As an educator, and as someone who is skilled at using technology for personal a
  	
 The Pew Research has a digital knowledge quiz that people can take for free and shows a statistical representation of how much people know (got right) with regard to privacy, cyber security, and technology. The main headline, and the results were a source of inspiration for my project. 
 
-> A majority of U.S. adults can answer fewer than half the questions correctly on a digital knowledge quiz, and many struggle with certain cybersecurity > and privacy questions (Vogels & Anderson, 2019). 
+> A majority of U.S. adults can answer fewer than half the questions correctly on a digital knowledge quiz, and many struggle with certain cybersecurity and privacy questions (Vogels & Anderson, 2019). 
 
 Most people can execute basic functions that meet their daily needs, however, when a situation arises that requires them to utilize their current digital skills, and apply it to a new problem, there seems to be a disconnect in the necessary steps to take in order to achieve that goal.
 
@@ -54,20 +54,20 @@ The least frequent uses were:
 
 - The provision of feedback to students on their work 32%, the support of collaboration among students 31%, the mediation of communication between students and experts or external mentors 26%.
 
-> Teachers who are confident in their own CIL abilities who have a positive perception of ICT use in teaching and learning and teachers who feel they work  > in a collaborative professional environment are more likely to emphasize CIL and CT in their teaching (ICILS, 2018).
+> Teachers who are confident in their own CIL abilities who have a positive perception of ICT use in teaching and learning and teachers who feel they work  in a collaborative professional environment are more likely to emphasize CIL and CT in their teaching (ICILS, 2018).
 
 Some of the entry behaviors the learners could have are a slight reluctance to invest large amounts of time in to the courses, as technology skills might not appear to be something of the highest degree of importance to their personal or professional lives. Skills involving the pedagogy of teaching, or alternate activities that will produce immediate results may seem like more enticing options to spend their time on. Educators interact with technology on a consistent basis, whether that's for personal or professional use and this gives them a basis, or prior knowledge on the topic. Although most educators interact with technology every single day, most don't do so in a complex way such as to achieve the highest level of Bloom’s Taxonomy. The 2019 pandemic changed the perceptions educators had on technology integration; one of those was the immediate need to use it, rather than the option to integrate it. Technology became essential to conduct tasks that once seemed rudimentary in an in person classroom model. The delivery system causes some uneasiness on the learners. 
 
 Most learners (the educators) of this age group are not familiar with online learning, and are more accustomed to the traditional in person model for teaching and learning; there is reluctance and doubt on how successful instruction can be that's delivered on a medium they are not comfortable operating in. Many schools still possess those student devices that were used during the time schools were online. Technology integration in the classroom has gone up, and this is one of the motives to incentivize utilizing this technology to its maximum potential The Pew Research has a digital knowledge quiz that people can take for free and shows a representation of how much people know with regard to privacy and cyber security; 
 
-> A majority of U.S. adults can answer fewer than half the questions correctly on a digital knowledge quiz, and many struggle with certain cybersecurity > and privacy questions (Vogels & Anderson, 2019). 
+> A majority of U.S. adults can answer fewer than half the questions correctly on a digital knowledge quiz, and many struggle with certain cybersecurity and privacy questions (Vogels & Anderson, 2019). 
 
 I believe that these results are also reflective of the subset teachers belong to.
 
 _Terminology_:
-1. **CIL** = Computer and Information Literacy
-2. **ICT** = Information and Communication Technology
-3. **CT**  = Computational Thinking
+1. **CIL** (Computer and Information Literacy)
+2. **ICT** (Information and Communication Technology)
+3. **CT**  (Computational Thinking)
 
 
 ### Learning Objectives
