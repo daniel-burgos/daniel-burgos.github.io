@@ -12,6 +12,8 @@ layout: default
 4. [Learning Objectives](#learning-objectives)
 5. [Instructional Strategies](#instructional-strategies)
 6. [Formative Evaluation & Plan](#formative-evaluation-and-plan)
+    * [Expert One-to-One Evaluation](#expert-one-to-one-evaluation)
+    * [Small Group Evaluation](#small-group-evaluation)
 7. [Student Personal Learning Statement](#student-personal-learning-statement)
 
 [Home Page](./)
@@ -72,7 +74,7 @@ _Terminology_:
 
 ### Learning Objectives
 <a href="https://drive.google.com/file/d/1y9qmi3QzpGF0G4V9wALfIZRfjlqWlKns/view" 
-   target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQO2jSIYI---yZ3H_V5dYgv-cFo8GWybzPRA&usqp=CAU" 
+   target="_blank"><img src="/assets/img/presentation_1.png" 
    width="370" height="234" border="5" /></a>
 
 ![Table_1](/assets/img/table_1.png)
@@ -84,7 +86,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Formative Evaluation and Plan
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For my formative evaluation, I plan on getting the guidance of Mrs. Solano for my one to one evaluation, a teacher a teacher one year away from retiring, my 7th grade PLC team, which consists of Mrs. Solano, Mrs. Sanders, and Mr. Stephens. Mrs. Sanders has10 years of experience, and Mr. Stephens has over two decades of teaching experience. For my field trail (learner perspective), I will also be meeting with my PLC team after they evaluate my materials and lesson from the perspective of a teacher. They will be my small group for feedback from the perspective of a teacher, and then after viewing my materials and lesson, from the perspective of a student. I will first meet one on one for my professional review, then with a small group, and then the field trial. 
+
+#### Expert One-to-One Evaluation
+
+The following is the feedback and comments Mrs. Solano had after she reviewed my instructional materials from the perspective of a teacher.
+Materials are appropriate, and are targeted toward the learner. The instruction is being delivered in a way that targets learners in a foundation (beginner) level in the digital skills platform. More resources need to be provided for teachers with higher competency (digital skills) at utilizing technology. It would be ideal to meet the varying levels of digital proficiency, but that would also increase the complexity, and amount of materials required. The materials provide the learner with enough opportunity to show their autonomy when it comes to them developing their skills in the specified domains. The materials do provide enough instruction to meet the subordinate skills, and eventually the instructional goal. The primary source for the resources is provided, so learners can continue their own discovery on the platform. One question to consider is the region of the target learners as the instruction appears to be more geared to teachers in the U.S. and consideration for other countries’ laws can affect the instruction. 
+	
+Students would have more motivation in going through all this work to develop their digital skills if the output, or the effect of their training was emphasized more. For example, one big motivating factor would be to show how the teacher can then use these skills in the classroom. This would take the form of showcasing or providing the learner with a list of tools that they can integrate; this will be based on their level of competency. So the instruction was made on the analysis that there is a digital competency gap in the use of technology, and that educators need to be more skilled at utilizing technology. Although this is true, learners need a motivating factor such as, with these new skills the realm of possibilities opens up in terms of the tools that the learner can now integrate in to their classroom. One example of this would be: After going through several modules of instruction, the learner is now more skilled at utilizing advanced tools that can provide benefits to classroom instruction, or activities that would otherwise be inaccessible due to the skill of the teacher.
+
+#### Small Group Evaluation
+
+For my small group evaluation I met with Mrs. Solano, Mrs. Sanders, and Mr. Stephens. All three of them reviewed my materials and there was a similar consensus over the clarity. One careful consideration that needs to be made is that when resources are provided to the learner they need to be paced carefully, or else they all start to blur and become a overwhelming due to all of the possibilities. One way of introducing these tools is providing them to the learner based on a course that they can take. For example, once the learner has completed the instruction for the security domain, several tools can be provided to help utilize those new found skills in the classroom to more safely browse the internet (VPNs, Password Mangers, etc). These tools can then be divided in terms of their complexity, giving learners the autonomy to choose which tool is right for them based on their current ability level.
 
 ### Student Personal Learning Statement
 
