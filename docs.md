@@ -75,7 +75,7 @@ _Terminology_:
 ### Learning Objectives
 <a href="https://drive.google.com/file/d/1y9qmi3QzpGF0G4V9wALfIZRfjlqWlKns/view" 
    target="_blank"><img src="/assets/img/presentation_1.png" 
-   width="370" height="234" border="5" /></a>
+   width="500" height="270" border="0" /></a>
 
 ![Table_1](/assets/img/table_1.png)
 
