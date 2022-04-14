@@ -71,6 +71,9 @@ _Terminology_:
 
 
 ### Learning Objectives
+<a href="https://drive.google.com/file/d/1y9qmi3QzpGF0G4V9wALfIZRfjlqWlKns/view" 
+   target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQO2jSIYI---yZ3H_V5dYgv-cFo8GWybzPRA&usqp=CAU" 
+   width="370" height="234" border="5" /></a>
 
 ![Table_1](/assets/img/table_1.png)
 
