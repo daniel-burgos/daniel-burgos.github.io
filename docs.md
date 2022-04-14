@@ -72,7 +72,7 @@ _Terminology_:
 
 ### Learning Objectives
 
-![Table_1](./assets/img/table_1.png)
+![Table_1](/assets/img/table_1.png)
 
 ### Instructional Strategies
 
