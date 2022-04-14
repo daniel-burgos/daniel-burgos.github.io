@@ -5,15 +5,15 @@ layout: default
 ## Document Design
 
 1. [Need for the Project](#need-for-the-project)
-    * [Rationale For The Need For Instruction](#rationale-for-the-need-for-instruction)
-    * [Instructional Goal](#instructional-goal)
+	* [Rationale For The Need For Instruction](#rationale-for-the-need-for-instruction)
+	* [Instructional Goal](#instructional-goal)
 2. [Learning Context](#learning-context)
 3. [Learner Analysis](#learner-analysis)
 4. [Learning Objectives](#learning-objectives)
 5. [Instructional Strategies](#instructional-strategies)
 6. [Formative Evaluation & Plan](#formative-evaluation-and-plan)
-    * [Expert One-to-One Evaluation](#expert-one-to-one-evaluation)
-    * [Small Group Evaluation](#small-group-evaluation)
+	* [Expert One-to-One Evaluation](#expert-one-to-one-evaluation)
+	* [Small Group Evaluation](#small-group-evaluation)
 7. [Student Personal Learning Statement](#student-personal-learning-statement)
 
 [Home Page](./)
