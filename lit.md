@@ -26,4 +26,4 @@ alt="IMAGE ALT TEXT HERE" width="500" height="350" border="0" /></a>
 
 ### Review
 
-MISSING
+The full literature review document can be accessed [here](/assets/daniel_burgos_lit_review.pdf)
