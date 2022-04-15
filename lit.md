@@ -14,15 +14,16 @@ layout: default
 
 ### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The aim for this literature review was to analyze the struggles that teachers faced while engaging in virtual education. The sudden and abrupt shift to online education left many shellshocked, especially since a large portion of educators were, and still are, not entirely confident in their abilities when teaching through an online medium. The perspective of students is briefly visited with a study on college students and their acceptance of technology mediated teaching. In addition to that, the digital divide that socioeconomic status creates is taken in to account, as the lack of technology is one of the main reasons why many students from low socio-economic households missed months of school. This divide not only affects the access that learners have to technology but also affects the access that the educator has in the classroom. Although educators that work in Title I schools can have access to advanced technology tools, it doesn’t mean that their school district has access therefore rending that access useless. The self perceived notion of digital skills of the students is also explored. From there we move toward a study conducted world wide every 5 years by the IEA, this is the ICILS, and it explores the digital competency of participating educators and students on a global scale. 
+
+The results that are used in the review are from the 2018 study, and provide a glimpse as to how teachers were going to perform during the COVID-19 pandemic in online environments, as well as students. Finally, we close the literature review with the best practices that educators can engage in when holding synchronous/asynchronous courses online, as well as a competency framework that can be followed and used as guidance in order to identify what is required to become a digitally competent citizen or educator. Educator resources, both free of cost, and paid, will be provided to give educators a starting point in their journey to becoming more digitally competent for their careers, for themselves, and for their students.
 
 ### Video Overview
 
-<a href="https://www.youtube.com/watch?v=x47NYUbtYb0
-" target="_blank"><img src="http://img.youtube.com/vi/x47NYUbtYb0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://drive.google.com/file/d/1FocsOJgRHI4d9CP6L18JybZCPA85d33p/view?usp=sharing
+" target="_blank"><img src="/assets/img/presentation_2.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="180" border="0" /></a>
 
 ### Review
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+MISSING
