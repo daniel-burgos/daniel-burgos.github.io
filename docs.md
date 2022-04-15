@@ -81,6 +81,10 @@ My instructional goal is an intellectual skill and these are the major steps to 
 6. Create personal accounts for each of the websites needed to access their online course 
 7. Retake digital skills test  
 
+![Flow](/assets/img/fig1.png)
+![Flow](/assets/img/fig2.png)
+![Flow](/assets/img/fig3.png)
+
 
 ### Learning Objectives
 <a href="https://drive.google.com/file/d/1y9qmi3QzpGF0G4V9wALfIZRfjlqWlKns/view" 
