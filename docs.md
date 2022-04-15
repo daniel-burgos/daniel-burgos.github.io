@@ -69,6 +69,18 @@ _Terminology_:
 2. **ICT** (Information and Communication Technology)
 3. **CT**  (Computational Thinking)
 
+#### Analysis of Learning Task
+
+My instructional goal is an intellectual skill and these are the major steps to achieve the goal:
+
+1. Access the digital skills test in the Digital Skills and Jobs Platform site 
+2. Create and verify account
+3. Take digital skills test  
+4. Download test results 
+5. Search for courses that address the domains that are below a level 3 (intermediate) 
+6. Create personal accounts for each of the websites needed to access their online course 
+7. Retake digital skills test  
+
 
 ### Learning Objectives
 <a href="https://drive.google.com/file/d/1y9qmi3QzpGF0G4V9wALfIZRfjlqWlKns/view" 
@@ -79,7 +91,34 @@ _Terminology_:
 
 ### Instructional Strategies
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Internet or intranet web-based instruction 
+
+Instruction will be delivered in the form of instructional videos that guide the learner on the steps they need to take and do in order to meet the varying performance goals. There will be instances where the learner will need to do something that was not shown in the instructional videos, however, these potential tasks will not deviate much from the core instruction being provided to the learner. 
+
+One potential solution to the issue that arises from providing feedback to unknown learners is through the use Google Forms where learners are able to contact me directly and we can communicate via the contact information that they provided in the form in order to assist with their questions or needs, and provide feedback.
+
+The instruction delivery has been broken up by objectives, and each objective has its own designated video to go along side it. However, an issue arose where I am not able to provide instructional videos on all of the potential MOOCs the learner can find themselves registering to. So, what I did instead was to create a video showing the learner how they would go about finding, and singing up to a MOOC on their own for each of the domains tested in the digital skills test. 
+
+#### Pre instructional activities
+
+In order to grab the attention of the learners I will share the results of the Pew Research quiz on digital knowledge that people can take for free and shows a statistical representation of how much people know (got right) with regard to privacy, cyber security, and technology on the quiz. I will also share a picture of the questions along with the accuracy per questions, and this quote:
+	
+> … just 28% of adults can identify an example of two-factor authentication – one of the most important ways experts say people can protect their personal information on sensitive accounts. Additionally, about one-quarter of Americans (24%) know that private browsing only hides browser history from other users of that computer, while roughly half (49%) say they are unsure what private browsing does (Vogels & Anderson, 2019).
+	
+The headline, picture, quote, and quiz attempt will be what will allow me to catch their attention. To attach relevancy to the task, we need to give statistics on how much teachers use technology on a daily basis, for what reasons, and how confident they feel in using it. This will come from the ICILS study, and will resonate with them since many were educators during the pandemic attempting to teach in an online medium. I will also reassure the learners that since they are teachers, they know that all children are capable of learning and growing in to better versions of themselves. Learners are not not limited to the ages of 5-18, learning is a life long process. Satisfaction will be achieved while the learner is proceeding through the courses and working through the quizzes. Their grades, in the respective MOOCs, will be available directly after finishing a quiz, and earning that high grade will help them get to feel a similar satisfaction that will come at the end of all the courses. As well as, when they retake the digital skills quiz, and see their growth through the provided report at the end. 
+
+1. **Content presentation:** Describe to the learners what the unit is about. Following a deductive pattern (show the learner how to distinguish the pieces of new learning and the structural relationships among the pieces to put them all together into a coherent whole.) of presentation.
+2. **Learner participation:** Feedback is tricky in this stage due to the nature of the medium in which instruction is being delivered
+3. **Assessment:** The same test will be used as the pretest and the posttest to maintain a level of consistency throughout the questions to show the learner how much they have grown form their previous attempt. Throughout the courses learners will navigate they will be given formative assessments as a way for them to be able to measure their growth and test their theoretical knowledge of the content being taught to them. 
+4. **Follow-through activities:** Provide the learners with GCF Global site that lists the most basic forms of troubleshooting, has a mini online course on computer basics, a Youtube playlist on computer basics, and an additional technology quiz at the end of their mini course. This resource can be their go to when attempting to troubleshoot technical issues on their own in the classroom or at home. 
+
+#### Materials
+
+[![Quiz](/assets/img/quiz.png)](https://www.pewresearch.org/internet/quiz/digital-knowledge-quiz/)
+
+- [Basic Troubleshooting](https://edu.gcfglobal.org/en/computerbasics/how-to-use-your-computers-builtin-help/1/)
+- [Additional Course: Computer Basics](https://www.youtube.com/playlist?list=PL4316FC411AD077AA)
+- [Additional Course 2: Computer Basics](https://edu.gcfglobal.org/en/computerbasics/)
 
 
 ### Formative Evaluation and Plan
@@ -99,4 +138,4 @@ For my small group evaluation I met with Mrs. Solano, Mrs. Sanders, and Mr. Step
 
 ### Student Personal Learning Statement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+MISSING.
