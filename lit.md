@@ -22,7 +22,7 @@ The results that are used in the review are from the 2018 study, and provide a g
 
 <a href="https://drive.google.com/file/d/1FocsOJgRHI4d9CP6L18JybZCPA85d33p/view?usp=sharing
 " target="_blank"><img src="/assets/img/presentation_2.png" 
-alt="IMAGE ALT TEXT HERE" width="500" height="180" border="0" /></a>
+alt="IMAGE ALT TEXT HERE" width="500" height="350" border="0" /></a>
 
 ### Review
 
