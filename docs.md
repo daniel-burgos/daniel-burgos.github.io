@@ -93,6 +93,12 @@ My instructional goal is an intellectual skill and these are the major steps to 
 
 ![Table_1](/assets/img/table_1.png)
 
+#### Assessment
+
+An example assessment questionnaire would look like this:
+
+![Questionnaire](/assets/img/fig5.png)
+
 ### Instructional Strategies
 
 #### Internet or intranet web-based instruction 
@@ -123,6 +129,11 @@ The headline, picture, quote, and quiz attempt will be what will allow me to cat
 - [Basic Troubleshooting](https://edu.gcfglobal.org/en/computerbasics/how-to-use-your-computers-builtin-help/1/)
 - [Additional Course: Computer Basics](https://www.youtube.com/playlist?list=PL4316FC411AD077AA)
 - [Additional Course 2: Computer Basics](https://edu.gcfglobal.org/en/computerbasics/)
+- [Online Learning Tool](http://newtech.coe.uh.edu)
+- [Online Learning Tool 2](https://www.toptools4learning.com)
+- [Online Learning Tool 3](https://www.schrockguide.net/online-tools.html)
+
+![Survey](/assets/img/fig4.jpeg)
 
 
 ### Formative Evaluation and Plan
