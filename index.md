@@ -15,5 +15,5 @@ My graduate courses were also the inspiration for me to convert the traditional 
 The full video presentation covering the capstone project is below:
 
 <a href="https://www.youtube.com/watch?v=h-nTJAQ7E2Q" 
-   target="_blank"><img src="https://img.youtube.com/vi/h-nTJAQ7E2Q/10.jpg" 
+   target="_blank"><img src="https://img.youtube.com/vi/h-nTJAQ7E2Q/0.jpg" 
    width="500" height="270" border="0" /></a>
