@@ -17,17 +17,17 @@ layout: default
 3. _CUIN 7390_: Instructional Design
 4. _CUIN 7389_: Digital Media
 
-- Sample One 
-Literature Review
+#### Sample One 
+[Literature Review](https://daniel-burgos.github.io/assets/daniel_burgos_lit_review.pdf)
 
-- Sample Two 
-Ed Puzzle Video
+#### Sample Two 
+[Ed Puzzle Video](https://edpuzzle.com/media/62392ea408e15142e242d9be)
 
-- Sample Three
-Instructional Goal Picture
+#### Sample Three
+<img src="/assets/img/fig1.png" alt="isolated" width="300"/>
 
-- Sample Four
-Newsletter
+#### Sample Four
+[Newsletter](https://www.smore.com/u5ray)
 
 ### Online Teaching and Learning
 
@@ -35,18 +35,21 @@ Newsletter
 2. _CUIN 7390_: Instructional Design
 3. _CUIN 7308_: Computer Mediated Communication
 
-- Sample One
-Literature Review
+#### Sample One
+[Literature Review](https://daniel-burgos.github.io/assets/daniel_burgos_lit_review.pdf)
 
-- Sample Two
-Instructional Goal Diagram
+#### Sample Two
+<img src="/assets/img/fig1.png" alt="isolated" width="300"/>
 
-- Sample Three
-Learning Management System
+#### Sample Three
+<img src="/assets/img/fig6.jpeg" alt="isolated" width="300"/>
+
+<img src="/assets/img/fig7.jpeg" alt="isolated" width="300"/>
+
 
 ### Reflection
 
-![daniel](/assets/img/daniel.png)
+<img src="/assets/img/daniel.png" alt="isolated" width="200"/>
 
 Prior to enrolling in the LDT Master’s I already possessed a passion for technology. To be specific the hardware side of technology (i.e. smartphones, computers, desktops, etc). I consume the majority of my content from Youtube, and these creators are primarily composed of tech “Youtubers.” I’ve always wondered if I could be capable enough to create my own Youtube channel and post videos on technology that I love. This curiosity was soon fulfilled by the class CUIN 7358: Digital Storytelling which armed me with the tools to begin exploring, and expanding my video editing skills. This is where I learned how to use iMovie to a competent degree, and since then I have graduated to a more advanced video editing software, DaVinci Resolve. At the same time I enrolled in my graduate studies, I became a teacher, and this was right in middle of the emergency lockdowns due to the COVID-19 pandemic. 
 
