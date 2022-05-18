@@ -42,6 +42,7 @@ The need for online instruction was felt throughout the world, and this is what 
 1. _CUIN 7347_: Seminar in Learning, Design and Technology
 2. _CUIN 7390_: Instructional Design
 3. _CUIN 7308_: Computer Mediated Communication
+4. _CUIN 7397_: E-Learning Pedagogy & Design
 
 #### Sample One
 [Literature Review](https://daniel-burgos.github.io/assets/daniel_burgos_lit_review.pdf)
@@ -53,3 +54,8 @@ The need for online instruction was felt throughout the world, and this is what 
 <img src="/assets/img/fig6.jpeg" alt="isolated" width="300"/>
 
 <img src="/assets/img/fig7.jpeg" alt="isolated" width="300"/> 
+
+#### Sample Four 
+[Internet Addiction: Gambling, Gaming & Pornography](https://docs.google.com/document/d/1MILDCWaSApE_ijngJz3fUdROjkMVNttR/edit)
+
+#### Sample Five
