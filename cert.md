@@ -59,3 +59,4 @@ The need for online instruction was felt throughout the world, and this is what 
 [Internet Addiction: Gambling, Gaming & Pornography](https://docs.google.com/document/d/1MILDCWaSApE_ijngJz3fUdROjkMVNttR/edit)
 
 #### Sample Five
+[Making Our Documents More Accessible](/assets/file1.pdf)
